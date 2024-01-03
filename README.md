@@ -23,7 +23,7 @@ Currently learning LLM, VLM model and Adversarial Attack & Defense
 
 <img src="https://img.shields.io/badge/python-444444?style=flat&logo=python&logoColor=#3776AB"> <img src="https://img.shields.io/badge/pytorch-444444?style=flat&logo=pytorch&logoColor=#EE4C2C"> <img src="https://img.shields.io/badge/tensorflow-444444?style=flat&logo=tensorflow&logoColor=#FF6F00"> <img src="https://img.shields.io/badge/numpy-444444?style=flat&logo=numpy&logoColor=#013243"> <img src="https://img.shields.io/badge/pandas-444444?style=flat&logo=pandas&logoColor=#150458">
 
-<img src="https://img.shields.io/badge/dockerl-444444?style=flat&logo=docker&logoColor=#2496ED"> <img src="https://img.shields.io/badge/fastapi-444444?style=flat&logo=fastapi&logoColor=#009688"> <img src="https://img.shields.io/badge/postgresql-444444?style=flat&logo=postgresql&logoColor=#4169E1">
+<img src="https://img.shields.io/badge/docker-444444?style=flat&logo=docker&logoColor=#2496ED"> <img src="https://img.shields.io/badge/fastapi-444444?style=flat&logo=fastapi&logoColor=#009688"> <img src="https://img.shields.io/badge/postgresql-444444?style=flat&logo=postgresql&logoColor=#4169E1">
 
 ---
 
