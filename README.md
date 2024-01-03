@@ -14,7 +14,7 @@ Currently learning LLM, VLM model and Adversarial Attack & Defense
 ### Contact
 
 <a href="https://magentino.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=#000000"></a>
-<a href="novelistoblige@gmail.com"><img src="https://img.shields.io/badge/gmail-000000?style=flat&logo=Gmail&logoColor=#EA4335"></a>
+<a href="https://novelistoblige@gmail.com"><img src="https://img.shields.io/badge/gmail-000000?style=flat&logo=Gmail&logoColor=#EA4335"></a>
 
 ---
 
